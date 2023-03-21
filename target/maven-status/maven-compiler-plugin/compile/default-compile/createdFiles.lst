@@ -1,0 +1,12 @@
+DAO\ProductDAO.class
+SERVLET\ProductServlet.class
+MODEL\Product.class
+SERVLET\LogoutServlet.class
+SERVLET\RegisterServlet.class
+UTILS\HibernateUtil.class
+REPOSITORY\DAOInterface.class
+SERVLET\LoginServlet.class
+MODEL\User.class
+COMPONENT\JsonResponse.class
+DAO\UserDAO.class
+COMPONENT\IdAutoGenerral.class
